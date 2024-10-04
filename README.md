@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi, I'm Daniel!:
 👨🏽‍💻 Aspiring Software Engineer passionate about using tech to solve real-world problems <br/><br>🎓 Freshman Computer Science Major at Penn State University, with a minor in Cybersecurity <br/><br>🚀 Co-founder & Social Media Chair of Multicultural Innovators in Computer Science ([MICS](https://linktr.ee/micspsu)) <br/><br>📊 Currently exploring data science, AI, and building impactful community projects <br/><br>
 
 
